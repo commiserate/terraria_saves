@@ -1,0 +1,1 @@
+./tModLoaderServer -config serverconfig.txt
